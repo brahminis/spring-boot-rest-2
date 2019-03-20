@@ -1,0 +1,6 @@
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/controllers/AddressRetrieveController.java
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/server/main/SpringBootRest2Application.java
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/beans/AddressReply.java
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/controllers/AddressInsertController.java
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/beans/AddressBook.java
+/home/souji/eclipse-workspace/spring-boot-rest-2/src/main/java/com/brahmini/yaps/beans/InsertAddress.java

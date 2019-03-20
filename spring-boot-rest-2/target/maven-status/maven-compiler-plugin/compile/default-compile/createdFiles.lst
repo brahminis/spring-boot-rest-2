@@ -1,0 +1,6 @@
+com/brahmini/yaps/server/main/SpringBootRest2Application.class
+com/brahmini/yaps/beans/InsertAddress.class
+com/brahmini/yaps/controllers/AddressRetrieveController.class
+com/brahmini/yaps/beans/AddressBook.class
+com/brahmini/yaps/controllers/AddressInsertController.class
+com/brahmini/yaps/beans/AddressReply.class
